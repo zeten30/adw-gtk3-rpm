@@ -18,7 +18,7 @@ git clone --recurse-submodules https://github.com/lassekongo83/adw-gtk3.git
 
 %build
 cd adw-gtk3
-git checkout tags/v3.0
+git checkout tags/v3.6
 %meson
 %meson_build
 
